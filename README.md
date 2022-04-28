@@ -13,4 +13,5 @@ Screenshots
 Downloads
 --------------------------------
 Download Installer (.exe): 
+
 Download Compressed file (.zip): 
