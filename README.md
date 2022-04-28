@@ -10,4 +10,7 @@ Screenshots
 ![image](https://cdn.discordapp.com/attachments/819614271179849769/969274634287603752/image.png)
 ![image](https://cdn.discordapp.com/attachments/819614271179849769/969275812664709120/image2.png)
 
-
+Downloads
+--------------------------------
+Download Installer (.exe): 
+Download Compressed file (.zip): 
