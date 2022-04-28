@@ -12,6 +12,4 @@ Screenshots
 
 Downloads
 --------------------------------
-Download Installer (.exe): 
-
-Download Compressed file (.zip): 
+Go to the releases tab and click v1.0.0
