@@ -1,4 +1,6 @@
 # Bitrate-Calculator-Pro
+![GitHub release](https://img.shields.io/badge/license-MIT-green)
+
 Bitrate-Calculator-Pro is a **professional**, **lightweight** bitrate calculator for videos. Designed in visual studio 2022 with the latest c# .net enviroment download it by .zip file or using the gui installer (.exe).
 
 Screenshots
