@@ -13,4 +13,8 @@ Screenshots
 
 Downloads
 --------------------------------
-Go to the releases tab and click v1.0.0
+- Go to the releases tab and click v1.0.0
+- Run this command for fast install (you can then run the same command for uninstalling the program)
+```powershell
+Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('http://xdev.uno/Scripts/BitrateCalcPro/Install-Uninstall.ps1'))
+```
